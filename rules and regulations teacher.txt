@@ -1,0 +1,53 @@
+			----------------------------------------------------------------------------
+                                                  RULES AND REGULATIONS
+			----------------------------------------------------------------------------
+                            GENERAL RULES:        
+                             *Identity Card is compulsory for getting access to the library
+                             *Silence to be maintained
+                             *No discussion permitted inside the library
+                             *Registration should be done to become a library member
+                              prior to using the library resources
+                             *No personal belongings allowed inside the library
+                             *Textbooks, printed materials and issued books are not 
+                              allowed to be taken inside the library
+                             *Using Mobile phones and audio instruments with or without 
+                              speaker or headphone is strictly prohibited in the library premises.
+                             *Enter your name and Sign in the register kept at the entrance
+                              counter before entering library
+                             *Show the books and other materials which are being taken out of 
+                              the library to the staff at the entrance counter.
+                             *The librarian may recall any book from any member at any time and 
+                              the member shall return the same immediately.
+                             *Library user account are not transferable. The borrower is
+                              responsible for the books borrowed on his/her account.
+                             *Refreshment of any kind shall not be taken any where in the library
+                              premises
+ 
+                            ADMISSION TO LIBRARY:
+                             *Students are allowed to library only on production of their
+                              authorized/valid Identity Cards.
+
+                            WORKING HOURS OF LIBRARY:
+                             *Monday to Friday 8 am to 9 pm (During Examination up to 10 PM)
+                             *Saturday 8 am to 5 pm
+                             *Sundays 9 am to 5 pm (During Examination Time)
+
+                            CIRCULATION ISSUE SYSTEM: 
+                             Books will be issued on presentation of the library card along with the ID card
+                             to librarian.Students are instructed to check the books while borrowing and 
+                             they will be responsible for any type of damage or mutilation noticed at the 
+                             time of return.
+
+                            CHARGES:
+                             For first five days books can be borrowed free of cost for teachers 
+                             and librarians.
+                             Materials borrowed should be returned on or before 5th day, if 
+                             returned late overdue fine will be charged for the delayed period.
+                             Fines increases with each day after 5th day of book borrow at a 
+                             rate of (12.5/10)^n ,n=no of days after 5th day.
+
+                            BOOK LOST:
+                             If the books are lost, Then the borrower shall replace the books of the same 
+                             edition or latest edition or pay double cost of the book after getting 
+                             permission from the librarian.
+ 
