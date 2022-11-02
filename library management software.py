@@ -1,4 +1,4 @@
-#arya,kedar,abrar,emran,nebuhan
+
 try:
     con,cur=None,None
     def sql_connection():
